@@ -364,6 +364,8 @@
     <Content Include="Asset\Audio\CatDown-02.wav" />
     <Content Include="Asset\Audio\CatDown-03.wav" />
     <Content Include="Asset\Audio\AddOrLessNumber.wav" />
+    <Resource Include="Asset\Image\Icon\pause.png" />
+    <Resource Include="Asset\Image\Icon\Icon.ico" />
     <Resource Include="Asset\Image\Other\Staff.png" />
     <Resource Include="Asset\Icon\Icon.ico" />
   </ItemGroup>

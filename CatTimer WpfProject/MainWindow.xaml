@@ -16,7 +16,11 @@
     <!--任务栏的相关控件-->
     <Window.TaskbarItemInfo>
         <!--在窗口中，创建一个任务栏进度条-->
-        <TaskbarItemInfo x:Name="taskbarItemInfo"></TaskbarItemInfo>
+        <TaskbarItemInfo x:Name="taskbarItemInfo">
+            <TaskbarItemInfo.ThumbButtonInfos>
+                <ThumbButtonInfo Description="Pause" Click="ThumbButtonInfo_Click" ImageSource="/CatTimer WpfProject;component/Asset/Image/Icon/pause.png"/>
+            </TaskbarItemInfo.ThumbButtonInfos>
+        </TaskbarItemInfo>
     </Window.TaskbarItemInfo>
 
 

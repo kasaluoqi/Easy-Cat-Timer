@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Input;
 
 namespace CatTimer_WpfProject
 {
@@ -51,7 +53,6 @@ namespace CatTimer_WpfProject
             //显示窗口
             notificationWindow.Show();
         }
-
 
         /// <summary>
         /// 关闭所有的通知窗口

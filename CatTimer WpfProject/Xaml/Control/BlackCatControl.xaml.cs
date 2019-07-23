@@ -58,7 +58,7 @@ namespace CatTimer_WpfProject
         private void CatGrid_OnMouseEnter(object sender, MouseEventArgs e)
         {
             //播放音效
-            AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatUp);
+            //AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatUp);
         }
 
         //当鼠标移出[猫咪身体]时
@@ -67,7 +67,7 @@ namespace CatTimer_WpfProject
             //播放音效
             if (AppManager.MainWindow.TimingUserControl.Visibility != Visibility.Visible)
             {
-                AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatDown);
+                //AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatDown);
             }
 
         }

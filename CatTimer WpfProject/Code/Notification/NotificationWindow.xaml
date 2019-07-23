@@ -11,7 +11,7 @@
         Height="141" Width="490"
         ResizeMode="NoResize" WindowStyle="None"
         AllowsTransparency="True" Background="Transparent"
-        
+        MouseLeftButtonUp="NotificationClick"
         Loaded="NotificationWindow_OnLoaded"
         Topmost="True">
 

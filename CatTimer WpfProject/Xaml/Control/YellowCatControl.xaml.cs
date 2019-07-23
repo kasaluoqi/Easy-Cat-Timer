@@ -28,7 +28,7 @@ namespace CatTimer_WpfProject
 
 
         /* 变量 */
-        private bool isPauseButton = true;//猫咪的按钮是否是[暂停]按钮？如果为true，表示当前是暂停按钮；如果为false，表示当前是恢复按钮
+        public static bool isPauseButton = true;//猫咪的按钮是否是[暂停]按钮？如果为true，表示当前是暂停按钮；如果为false，表示当前是恢复按钮
 
 
         #region 公开属性
@@ -104,14 +104,14 @@ namespace CatTimer_WpfProject
         private void CatGrid_OnMouseEnter(object sender, MouseEventArgs e)
         {
             //播放音效
-            AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatUp);
+            //AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatUp);
         }
 
         //当鼠标移出[猫咪身体]时
         private void CatGrid_OnMouseLeave(object sender, MouseEventArgs e)
         {
             //播放音效
-            AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatDown);
+            //AppManager.AppSystems.AudioSystem.PlayAudio(AudioType.CatDown);
         }
         #endregion
 

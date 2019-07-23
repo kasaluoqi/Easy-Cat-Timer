@@ -57,7 +57,14 @@ namespace CatTimer_WpfProject
             OpenNotification(sender as NotificationWindow);
         }
 
+        private void NotificationClick(object sender, MouseButtonEventArgs e)
+        {
 
+            //if (AppManager.MainWindow.WindowState == WindowState.Minimized)
+                AppManager.MainWindow.show();
+
+            CloseNotification();
+        }
         /// <summary>
         /// 当点击按钮时
         /// </summary>

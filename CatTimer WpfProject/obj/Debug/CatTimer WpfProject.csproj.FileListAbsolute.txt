@@ -86,3 +86,51 @@ C:\Project\WPF\CatTimer WpfProject\CatTimer WpfProject\obj\Debug\Code\Notificati
 C:\Project\WPF\CatTimer WpfProject\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete.wav
 C:\Project\WPF\CatTimer WpfProject\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_Content.g.cs
 C:\Project\WPF\CatTimer WpfProject\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csprojAssemblyReference.cache
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\Asset\Audio\Complete.wav
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.exe.config
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.exe
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\bin\Debug\CatTimer WpfProject.pdb
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csprojAssemblyReference.cache
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\BlackCatControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\CheckBoxControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ClockControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\PausedUiControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\SettingUiControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\TimingControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ToggleControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\YellowCatControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ButtonControl.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\MainWindow.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Code\Notification\NotificationWindow.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\App.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_Content.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_MarkupCompile.cache
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject_MarkupCompile.lref
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\App.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\BlackCatControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\CheckBoxControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ClockControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\PausedUiControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\SettingUiControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\TimingControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ToggleControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\YellowCatControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ConverterDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\EnglishTextDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\CheckBoxDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\NoBackgroundButtonDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\ToggleDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Control\ButtonControl.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ChineseTextDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\FontDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Dictionary\ImageDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\MainWindow.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Xaml\Style\ButtonDictionary.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\Code\Notification\NotificationWindow.baml
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.g.resources
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer_WpfProject.Properties.Resources.resources
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csproj.GenerateResource.cache
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.csproj.CoreCompileInputs.cache
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.exe
+C:\Users\kasal\Source\Repos\Easy-Cat-Timer\CatTimer WpfProject\obj\Debug\CatTimer WpfProject.pdb
